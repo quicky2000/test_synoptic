@@ -1,0 +1,4 @@
+depend:synoptic lib_bmp
+CFLAGS:-Wall -g -ansi -pedantic
+LDFLAGS:
+
